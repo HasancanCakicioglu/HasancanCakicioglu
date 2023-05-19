@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUxcuN2SACYTXz7S7K4R8x-3BAm8EGPaXLWA" style="width: 100%; height: auto;">
+</div>
 <h1 align="center">Hi 👋, I'm Hasancan Çakıcıoğlu</h1>
 <h3 align="center">A passionate flutter and tensorflow developer from Turkey</h3>
 <img align="right" alt="RainCoder" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
